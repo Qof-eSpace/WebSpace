@@ -7,8 +7,18 @@
 -   📫 How to reach me ... You allready kno ? .\_.
 
 <!---
-Qof-eSpace/Qof-eSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+EXT : 
+- Better comments
+- Markdown All in One
 --->
 
+
 # Pickaria
+
+# Section 1
+
+
+
+# Section 1.1
+
+- Preps 
